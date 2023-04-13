@@ -8,7 +8,8 @@ import { COURSES } from './data/course-data';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  csci160: Course = COURSES[0];
-  csci161: Course = COURSES[1];
-  csci213: Course = COURSES[2];
+  // csci160: Course = COURSES[0];
+  // csci161: Course = COURSES[1];
+  // csci213: Course = COURSES[2];
+  COURSE_LIST: Course[] = COURSES;
 }
