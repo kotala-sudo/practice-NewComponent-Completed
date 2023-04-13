@@ -1,0 +1,12 @@
+.top-menu {
+  background: #0a5640;
+  padding: 2px 15px;
+}
+
+.logo {
+  text-align: center;
+  font-family: Times;
+  font-size: 3rem;
+  font-weight: bolder;
+  color: #ffc82e;
+}
